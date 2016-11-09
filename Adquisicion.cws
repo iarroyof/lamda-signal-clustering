@@ -1,0 +1,546 @@
+[Workspace Header]
+Version = 1001
+Pathname = "/c/Users/utm/Documents/National Instruments/CVI/Adquisicion.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2010"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2010"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 4
+Active Project = 4
+Project 0001 = "Adquisicion.prj"
+Project 0001 Folder Include Files Collapsed = True
+Project 0001 Folder Instrument Files Collapsed = True
+Project 0002 = "pruebaDAQ.prj"
+Project 0003 = "prueba2DAQ.prj"
+Project 0004 = "DAQmxProof.prj"
+Drag Bar Left = 353
+Window Top = 90
+Window Left = -11
+Window Bottom = 698
+Window Right = 1213
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 8
+Window Confinement Region Enabled = True
+MainColumnWidth = 336
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 1001
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[Project Header 0002]
+Version = 1001
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[Project Header 0003]
+Version = 1001
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[Project Header 0004]
+Version = 1001
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "/c/program files (x86)/national instruments/cvi2010/toolslib/datasock/dataskt.fp"
+File Type = "Function Panel"
+Disk Date = 3403263600
+In Projects = "1,"
+
+[File 0002]
+Path Line0001 = "/c/program files (x86)/national instruments/cvi2010/toolslib/custctrl/hyperlinkc"
+Path Line0002 = "trl.fp"
+File Type = "Function Panel"
+Disk Date = 3403263600
+In Projects = "1,"
+
+[File 0003]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/Adquisicion.c"
+File Type = "CSource"
+Disk Date = 3442525307
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Source Window State = "1,40,41,40,4,0,4,0,0,0,0,0,0,0,0,0,25,0,40,4,349,715,1,0,"
+
+[File 0004]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/Adquisicion.h"
+File Type = "Include"
+Disk Date = 3442522811
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,0,0,271,715,1,0,"
+
+[File 0005]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/Adquisicion.uir"
+File Type = "User Interface Resource"
+Disk Date = 3442525381
+In Projects = "1,"
+Window Top = 32
+Window Left = 10
+Window Height = 349
+Window Width = 715
+
+[File 0006]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/pruebaDAQ.c"
+File Type = "CSource"
+Disk Date = 3442612255
+In Projects = "2,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 3
+Source Window State = "1,85,85,85,12,129,12,0,0,72,0,0,0,0,0,25,51,0,74,26,349,651,1,0,"
+
+[File 0007]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/pruebaDAQ.uir"
+File Type = "User Interface Resource"
+Disk Date = 3442589377
+In Projects = "2,"
+Window Top = 62
+Window Left = 26
+Window Height = 349
+Window Width = 715
+
+[File 0008]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/pruebaVoltageTaskExampleCode.c"
+File Type = "CSource"
+Disk Date = 3442618638
+In Projects = "2,"
+Window Top = 272
+Window Left = 138
+Window Z-Order = 4
+Source Window State = "1,52,52,52,52,56,56,0,0,80,0,39,0,0,0,25,104,0,108,58,349,715,1,20,"
+
+[File 0009]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/pruebaVoltageTaskExampleCode.h"
+File Type = "Include"
+Disk Date = 3442534569
+In Projects = "2,"
+Window Top = 32
+Window Left = 10
+Window Z-Order = 8
+Source Window State = "1,18,18,18,0,46,46,0,3,80,0,0,0,0,0,25,6,0,18,0,349,715,1,0,"
+
+[File 0010]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/prueba2DAQ.c"
+File Type = "CSource"
+Disk Date = 3442608346
+In Projects = "1,3,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 6
+Source Window State = "1,91,91,91,16,29,16,0,3,80,0,0,0,0,0,23,76,0,91,29,323,715,1,0,"
+
+[File 0011]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/prueba2DAQ.uir"
+File Type = "User Interface Resource"
+Disk Date = 3442614603
+In Projects = "3,"
+Window Top = 212
+Window Left = 106
+Window Height = 349
+Window Width = 715
+Window Z-Order = 5
+
+[File 0012]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/DAQmxProof.c"
+File Type = "CSource"
+Disk Date = 3442972093
+In Projects = "4,"
+Window Top = 182
+Window Left = 90
+Window Z-Order = 1
+Source Window State = "1,130,130,130,30,32,32,0,0,118,0,0,0,0,0,18,123,0,128,34,323,651,1,0,"
+
+[File 0013]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/DAQmxProof.uir"
+File Type = "User Interface Resource"
+Disk Date = 3442972202
+In Projects = "4,"
+Window Top = 32
+Window Left = 10
+Window Height = 349
+Window Width = 651
+Window Z-Order = 2
+
+[File 0014]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/DAQTaskPrueba.h"
+File Type = "Include"
+Disk Date = 3442585816
+In Projects = "3,"
+Window Top = 92
+Window Left = 42
+Source Window State = "1,28,28,28,6,26,6,0,0,80,0,0,0,0,0,25,0,0,28,31,349,715,1,0,"
+
+[File 0015]
+Path = "/c/Users/utm/Documents/National Instruments/CVI/prueba2DAQ.h"
+File Type = "Include"
+Disk Date = 3442614603
+In Projects = ""
+Window Top = 62
+Window Left = 26
+Window Z-Order = 7
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,13,8,0,18,111,193,715,1,0,"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+
+[Default Build Config 0002 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0002 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0002 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0002 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0002]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0002]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0002]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0002]
+External Process Path = ""
+
+[Command Line Args 0002]
+Command Line Args = ""
+Working Directory = ""
+
+[Default Build Config 0003 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0003 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0003 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0003 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0003]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0003]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0003]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0003]
+External Process Path = ""
+
+[Command Line Args 0003]
+Command Line Args = ""
+Working Directory = ""
+
+[Default Build Config 0004 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0004 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0004 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0004 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0004]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0004]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0004]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0004]
+External Process Path = ""
+
+[Command Line Args 0004]
+Command Line Args = ""
+Working Directory = ""
+

@@ -1,0 +1,59 @@
+/*****Mapas perfil de procesamiento de se๑ales para cada caj๓n******/
+
+				         1	  2         3         4         5         1	    2         3         4         5
+					 1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+#define mapaCajonI_PACMC 		"XgAcXXXXjAmXXXAXXXXXXXXXXgXXXXXXXgXXXXXXgCgXeXeXAXXXXXXXXXXeXXXkXXXXXbXbXXXgXXXmXXXXXXXkXfhXXmAfhgAj"
+#define mapaCajonII_PACMC		"XXXXXeXXXXpXXXXXXXXXXXXXXXaXXXXXXXXXXXXXXXXXXXXXXXXgsXXXXXXXtXXXXXXXiXXXXXXgyXXfXXXXXXXfXXXXXXXXbXXX"
+#define mapaCajonIII_PACMC		"mgXgmXXXXXbXXXXXXXXXXnXXXXXXXozXXADXXXzXXAXXXXXXXXXXXXXXXXXiXXXXXXXXXXXXXXXXXXXzXXXXXXXbXXXXXXXbkdXX"
+#define mapaCajonIV_PACMC		"XXXXXXXXXXjXegXXXXeXXuXXXXXXXXXXXXeXXiXiXXXXXubXrqAXAXXgXXXAXXXgXXXXXXXgXXXXXXXgXXXgXXXggXXXfgAXvgbX"
+#define mapaCajonI_CMLCMR		"XXXXXXXXXXXXXhBhXBXXXXXXXXXXYXYXBeBXXXXXXXXXXBXXXBXXXXXXXXXBXXXXBXXXXXXXXXXfXfXBXXXBXXXbXbXXBXXXBYXY"
+#define mapaCajonII_CMLCMR		"YXXYXXYYXgFXXXYXXXXXXXXXXYXXXXXXXXXXXXGXXXXXXXXXXYXXXXXgXXXYXXXXXXXYXXXXXXXXXXXXXXXXXXXiXXXXXXXXXgXX"
+/*** Veแmos a continuaci๓n una tabla con el significado de cada caracter en la 
+cadena de cada mapa perfil de procesamiento:
+
+'a' 		  FFT 15V Varia frecuencia desde   hasta  
+'b'  		  Av  +5  V, 
+'c' 		  FFT 100 KHz,+12V:-12V
+'d'		  Av  20  V, 
+'e'		  Av +12  V,
+'f'		  Av -12  V,
+'g'		  Av +24  V,
+'h' 		  Av -24  V,
+'i'               Av +10  V,
+'j'		  AV +15  V,	
+'k'		  +8 V,
+'l'		  Rampa de +72V hasta 0v Dependiendo del tiempo(Capacitor)
+'m'		  23kHz  +8V:-7V
+'n'		  100kHz +16V:-9V cUADRADA
+'o'		  100kHz +10V:-16V
+'p'		  23 kHz +4V:-6V
+'q'		  Modulada Portadora en 100KhZ +9V:+0.8V Y PULSOS +12V a 3.3Hz
+'r'		  100 Khz Cuadrada +12V:0V
+'s'		  Pulsos +5V a 2.5Hz
+'t'		  Pulsos +10V a 2.5Hz
+'u'		  +65 v
+'v'		  135 kHz +5V:0v CUADRADA
+'w'		  +5V:0V 68Hz
+
+'y'		  12V Cuadrada 25Hz
+'z'		  +13V:-13V 1100Hz hasta 1140
+'A'		  Diente de Sierra centrada en 72v +-0.2V
+'B'		  135kHz 0.4V:-0.2V
+'C'		  +72 V
+'D'		  Modulada 10 Hz, pulsos de 4V con duracion de 0.0672 segundos
+'E'		  +0.8V:-0.5V ------------------------------------
+'F'		  +14V:-14V 1488Hz
+'G'		  +13V:-13V 1250Hz
+'X'		  se๑al que no es salida
+'Y'		  se๑al aun no caracterizada HASTA ESTE MOMENTO SON 10 DIFERENTES SEัALES QUE ME FALTAN	
+
+
+
+
+donde: Av  -> promediaci๓n de la se๑al
+	   FFT -> extracci๓n del pico de frecuencia mediante FFT.
+*****/ 
+จจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจ
+NOTA:	Estan ordenadas Mayusculas luego minusculas y finalmente letras doblesจ
+
+จจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจจ
